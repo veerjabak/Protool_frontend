@@ -1,0 +1,26 @@
+.box {
+  background-color: #ffffff8a;
+  padding: 10px;
+  border-radius: 20px;
+}
+.pros {
+  display: flex;
+
+  margin-top: 20px;
+  justify-content: center;
+}
+.cards {
+  background-image: linear-gradient(180deg, #f8d49a -146.42%, #fad79d -46.42%);
+  border-radius: 20px;
+  padding: 10px;
+  /* margin-bottom: 20px; */
+  color: #444;
+  text-decoration: none;
+  margin: 12px;
+  width: 350px;
+}
+.btn-create-project {
+  margin-top: 20px;
+  padding: 16px;
+  border-radius: 5px;
+}
